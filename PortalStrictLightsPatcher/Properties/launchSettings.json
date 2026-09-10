@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PortalStrictLightsPatcher": {
+      "commandName": "Project",
+      "commandLineArgs": "run-patcher\r\n--GameRelease SkyrimSE\r\n--DataFolderPath \"F:\\SteamLibrary\\steamapps\\common\\Skyrim Special Edition\\Data\"\r\n--LoadOrderFilePath \"F:\\Modding\\Skyrim\\Ancestries\\profiles\\Default\\plugins.txt\"\r\n--OutputPath \"F:\\Modding\\DEV\\Synthesis\\PortalStrictLightsPatcher\\PortalStrictLightsPatch.esp\""
+    }
+  }
+}
