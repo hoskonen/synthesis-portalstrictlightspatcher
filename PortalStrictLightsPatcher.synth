@@ -1,0 +1,6 @@
+{
+  "AddGitPatcher": {
+    "Url": "https://github.com/hoskonen/PortalStrictLightsPatcher",
+    "SelectedProject": "PortalStrictLightsPatcher\\PortalStrictLightsPatcher.csproj"
+  }
+}
